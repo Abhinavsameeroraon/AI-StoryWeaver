@@ -1,0 +1,6 @@
+streamlit
+moviepy
+Pillow
+gTTS
+openai>=1.0.0
+requests
